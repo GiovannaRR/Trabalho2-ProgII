@@ -2,10 +2,6 @@
 
 Este é um projeto simples em Java utilizando JavaFX que simula o funcionamento de uma máquina de venda de coxinhas. Ele permite abastecer, vender coxinhas (uma ou várias) e zerar o estoque.
 
-## 📸 Interface
-
-![Máquina de Coxinha](./Captura%20de%20tela%202025-07-12%20231549.png)
-
 ## 🚀 Funcionalidades
 
 - ✅ Reabastecer a máquina com coxinhas.
@@ -30,6 +26,6 @@ A lógica do sistema está encapsulada na classe `MaquinaCoxinha`, que contém o
 
 ```plaintext
 ├── src/
-│   ├── MaquinaCoxinha.java
-│   ├── TelaControlador.java
-│   └── main.fxml (interface gráfica - FXML)
+│   ├── main.fxml (interface gráfica - FXML)
+│   ├── MaquinaCoxinha.java 
+│   └── TelaControlador.java
